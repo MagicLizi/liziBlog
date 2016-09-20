@@ -1,0 +1,33 @@
+# basic
+title: 神奇的梨子
+subtitle: 谁说超人不会飞
+favicon: images/avatar.jpg
+
+# avatar: images/avatar.png
+# banner_small: images/banner-small.png
+# banner_large: images/banner-large.png
+avatar: images/avatar.jpg
+banner_small: images/banner-large.jpeg
+banner_large: images/banner-large.jpeg
+
+# disqus
+#disqus_shortname: drakeleung
+
+# social
+social:
+  github: https://github.com/magicLizi
+  # twitter: https://twitter.com/DrakeLeung
+  # weibo: http://weibo.com/cha12chalyc
+
+# nav #
+nav:
+  主页: .
+  # 文章列表: archives
+  # 关于: about
+  # rss: atom.xml
+
+# heox-renderre-sass
+node_sass:
+  outputStyle: nested
+  precision: 5
+  sourceComments: false
