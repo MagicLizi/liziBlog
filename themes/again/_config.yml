@@ -7,8 +7,8 @@ favicon: images/avatar.jpg
 # banner_small: images/banner-small.png
 # banner_large: images/banner-large.png
 avatar: images/avatar.jpg
-banner_small: images/banner-large.jpeg
-banner_large: images/banner-large.jpeg
+banner_small: images/banner-large.jpg
+banner_large: images/banner-large.jpg
 
 # disqus
 #disqus_shortname: drakeleung
