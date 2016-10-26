@@ -90,4 +90,20 @@ import {getData} from 'xxx';
 import baseModel from 'xxx';
 ```
 
+#### 7. let: 作用域为代码块 
+
+```
+{
+    let a = 1;
+    var b = 2;
+}
+console.log(a);
+console.log(b);
+```
+
+#### 8. const: 声明一个只读的常量，并且声明后无法改变,作用域和let 相同
+```
+const a = 1
+```
+
 
