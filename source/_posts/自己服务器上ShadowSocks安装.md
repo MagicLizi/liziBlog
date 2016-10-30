@@ -57,9 +57,9 @@ var rules = [
 
 #### 客户端下载地址
 
-[MAC ShadowSocksX](http://webresources.b0.upaiyun.com/ShadowsocksX-2.6.3.dmg)
+[MAC ShadowSocksX 点我](http://webresources.b0.upaiyun.com/ShadowsocksX-2.6.3.dmg)
 
-[WINDOWS ShadowSocksX](http://webresources.b0.upaiyun.com/Shadowsocks.exe)
+[WINDOWS ShadowSocksX 点我](http://webresources.b0.upaiyun.com/Shadowsocks.exe)
 
 #### 客户端Git
  1. https://github.com/shadowsocks/shadowsocks-windows
